@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+    color: #575757;
+}
+p{
+    color: #575757; 
+    margin-bottom: 50px;
+}
+.container{
+    width: 50%;
+    padding-left: 5%;
+}
+.flexiable{
+    display: flex;
+}
+.span-color{
+    color: orange;
+}
+.order-btn{
+    text-decoration: none;
+    background-image: linear-gradient(crimson, orange);
+    padding: 10px 20px;
+    color: azure;
+    font-weight: 400;
+    border-radius: 50px;
+}
+.container img{
+    width: 80%;
+}
